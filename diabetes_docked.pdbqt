@@ -1,0 +1,216 @@
+MODEL 1
+REMARK VINA RESULT:     0.000      0.000      0.000
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      47.246  13.406  32.281  1.00  0.00           C
+HETATM    2  C2  UNL     1      48.188  14.436  32.022  1.00  0.00           C
+HETATM    3  C3  UNL     1      47.684  15.719  31.774  1.00  0.00           C
+HETATM    4  C4  UNL     1      46.306  15.961  31.799  1.00  0.00           C
+HETATM    5  C5  UNL     1      45.390  14.928  32.064  1.00  0.00           C
+HETATM    6  C6  UNL     1      45.866  13.649  32.307  1.00  0.00           C
+HETATM    7  O7  UNL     1      49.541  14.197  31.992  1.00  0.00           O
+HETATM    8  C8  UNL     1      50.423  15.299  31.999  1.00  0.00           C
+HETATM    9  O9  UNL     1      49.909  16.437  31.786  1.00  0.00           O
+HETATM   10  C10 UNL     1      51.699  15.228  32.656  1.00  0.00           C
+HETATM   11  C11 UNL     1      46.143  17.195  31.015  1.00  0.00           C
+HETATM   12  O12 UNL     1      45.094  17.518  30.480  1.00  0.00           O
+HETATM   13  O13 UNL     1      47.310  17.892  30.947  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     0.000      1.964      2.150
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      48.018  14.830  33.421  1.00  0.00           C
+HETATM    2  C2  UNL     1      48.936  14.946  32.344  1.00  0.00           C
+HETATM    3  C3  UNL     1      49.013  16.185  31.697  1.00  0.00           C
+HETATM    4  C4  UNL     1      48.220  17.259  32.116  1.00  0.00           C
+HETATM    5  C5  UNL     1      47.321  17.126  33.190  1.00  0.00           C
+HETATM    6  C6  UNL     1      47.225  15.906  33.842  1.00  0.00           C
+HETATM    7  O7  UNL     1      49.710  13.889  31.928  1.00  0.00           O
+HETATM    8  C8  UNL     1      50.781  14.141  31.045  1.00  0.00           C
+HETATM    9  O9  UNL     1      50.809  15.285  30.501  1.00  0.00           O
+HETATM   10  C10 UNL     1      51.995  13.376  31.106  1.00  0.00           C
+HETATM   11  C11 UNL     1      48.175  18.152  30.949  1.00  0.00           C
+HETATM   12  O12 UNL     1      47.297  18.981  30.769  1.00  0.00           O
+HETATM   13  O13 UNL     1      49.212  17.907  30.102  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     0.000      2.361      2.777
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      47.762  12.845  33.911  1.00  0.00           C
+HETATM    2  C2  UNL     1      48.379  13.329  32.727  1.00  0.00           C
+HETATM    3  C3  UNL     1      48.605  14.708  32.639  1.00  0.00           C
+HETATM    4  C4  UNL     1      48.243  15.559  33.689  1.00  0.00           C
+HETATM    5  C5  UNL     1      47.638  15.059  34.856  1.00  0.00           C
+HETATM    6  C6  UNL     1      47.401  13.697  34.963  1.00  0.00           C
+HETATM    7  O7  UNL     1      48.729  12.494  31.693  1.00  0.00           O
+HETATM    8  C8  UNL     1      49.573  12.992  30.677  1.00  0.00           C
+HETATM    9  O9  UNL     1      49.754  14.245  30.656  1.00  0.00           O
+HETATM   10  C10 UNL     1      50.527  12.144  30.018  1.00  0.00           C
+HETATM   11  C11 UNL     1      48.136  16.884  33.059  1.00  0.00           C
+HETATM   12  O12 UNL     1      47.482  17.801  33.529  1.00  0.00           O
+HETATM   13  O13 UNL     1      48.831  16.930  31.890  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:     0.000      3.202      3.374
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      46.163  12.231  33.553  1.00  0.00           C
+HETATM    2  C2  UNL     1      46.400  12.477  32.175  1.00  0.00           C
+HETATM    3  C3  UNL     1      45.954  13.698  31.656  1.00  0.00           C
+HETATM    4  C4  UNL     1      45.315  14.633  32.478  1.00  0.00           C
+HETATM    5  C5  UNL     1      45.095  14.372  33.843  1.00  0.00           C
+HETATM    6  C6  UNL     1      45.523  13.167  34.377  1.00  0.00           C
+HETATM    7  O7  UNL     1      47.022  11.557  31.366  1.00  0.00           O
+HETATM    8  C8  UNL     1      47.465  11.967  30.091  1.00  0.00           C
+HETATM    9  O9  UNL     1      47.042  13.088  29.679  1.00  0.00           O
+HETATM   10  C10 UNL     1      48.654  11.417  29.501  1.00  0.00           C
+HETATM   11  C11 UNL     1      44.562  15.482  31.542  1.00  0.00           C
+HETATM   12  O12 UNL     1      43.592  16.147  31.869  1.00  0.00           O
+HETATM   13  O13 UNL     1      45.071  15.397  30.283  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:     0.000      8.631      9.571
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      51.562  14.117  23.999  1.00  0.00           C
+HETATM    2  C2  UNL     1      50.574  13.398  23.278  1.00  0.00           C
+HETATM    3  C3  UNL     1      49.639  12.669  24.023  1.00  0.00           C
+HETATM    4  C4  UNL     1      49.683  12.672  25.422  1.00  0.00           C
+HETATM    5  C5  UNL     1      50.668  13.396  26.118  1.00  0.00           C
+HETATM    6  C6  UNL     1      51.606  14.121  25.400  1.00  0.00           C
+HETATM    7  O7  UNL     1      50.533  13.390  21.904  1.00  0.00           O
+HETATM    8  C8  UNL     1      49.381  12.887  21.264  1.00  0.00           C
+HETATM    9  O9  UNL     1      48.562  12.250  21.991  1.00  0.00           O
+HETATM   10  C10 UNL     1      48.918  13.436  20.020  1.00  0.00           C
+HETATM   11  C11 UNL     1      48.951  11.457  25.809  1.00  0.00           C
+HETATM   12  O12 UNL     1      49.093  10.899  26.885  1.00  0.00           O
+HETATM   13  O13 UNL     1      48.133  11.036  24.806  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:     0.000      5.557      6.137
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      49.851  14.508  29.098  1.00  0.00           C
+HETATM    2  C2  UNL     1      50.852  14.428  28.095  1.00  0.00           C
+HETATM    3  C3  UNL     1      50.442  14.063  26.807  1.00  0.00           C
+HETATM    4  C4  UNL     1      49.095  13.806  26.533  1.00  0.00           C
+HETATM    5  C5  UNL     1      48.117  13.897  27.540  1.00  0.00           C
+HETATM    6  C6  UNL     1      48.501  14.251  28.824  1.00  0.00           C
+HETATM    7  O7  UNL     1      52.177  14.675  28.365  1.00  0.00           O
+HETATM    8  C8  UNL     1      53.068  14.842  27.284  1.00  0.00           C
+HETATM    9  O9  UNL     1      52.638  14.512  26.139  1.00  0.00           O
+HETATM   10  C10 UNL     1      54.183  15.744  27.369  1.00  0.00           C
+HETATM   11  C11 UNL     1      49.124  12.986  25.313  1.00  0.00           C
+HETATM   12  O12 UNL     1      48.214  12.246  24.977  1.00  0.00           O
+HETATM   13  O13 UNL     1      50.299  13.143  24.643  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:     0.000      5.203      6.227
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      49.851  14.508  29.098  1.00  0.00           C
+HETATM    2  C2  UNL     1      51.225  14.253  28.847  1.00  0.00           C
+HETATM    3  C3  UNL     1      51.637  14.222  27.509  1.00  0.00           C
+HETATM    4  C4  UNL     1      50.722  14.448  26.475  1.00  0.00           C
+HETATM    5  C5  UNL     1      49.366  14.704  26.746  1.00  0.00           C
+HETATM    6  C6  UNL     1      48.935  14.735  28.063  1.00  0.00           C
+HETATM    7  O7  UNL     1      52.123  14.026  29.862  1.00  0.00           O
+HETATM    8  C8  UNL     1      53.502  14.050  29.564  1.00  0.00           C
+HETATM    9  O9  UNL     1      53.816  14.036  28.337  1.00  0.00           O
+HETATM   10  C10 UNL     1      54.463  14.528  30.518  1.00  0.00           C
+HETATM   11  C11 UNL     1      51.354  13.839  25.295  1.00  0.00           C
+HETATM   12  O12 UNL     1      50.732  13.482  24.307  1.00  0.00           O
+HETATM   13  O13 UNL     1      52.697  13.706  25.470  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:     0.000      4.097      6.183
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      49.851  14.508  29.098  1.00  0.00           C
+HETATM    2  C2  UNL     1      50.952  14.492  29.994  1.00  0.00           C
+HETATM    3  C3  UNL     1      52.219  14.250  29.449  1.00  0.00           C
+HETATM    4  C4  UNL     1      52.377  14.048  28.073  1.00  0.00           C
+HETATM    5  C5  UNL     1      51.273  14.073  27.202  1.00  0.00           C
+HETATM    6  C6  UNL     1      50.009  14.306  27.721  1.00  0.00           C
+HETATM    7  O7  UNL     1      50.797  14.685  31.346  1.00  0.00           O
+HETATM    8  C8  UNL     1      51.944  14.925  32.131  1.00  0.00           C
+HETATM    9  O9  UNL     1      53.064  14.705  31.581  1.00  0.00           O
+HETATM   10  C10 UNL     1      51.896  15.790  33.277  1.00  0.00           C
+HETATM   11  C11 UNL     1      53.659  13.335  27.958  1.00  0.00           C
+HETATM   12  O12 UNL     1      53.962  12.648  26.996  1.00  0.00           O
+HETATM   13  O13 UNL     1      54.427  13.524  29.065  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:     0.000      3.393      5.347
+REMARK INTER + INTRA:           0.000
+REMARK INTER:                   0.000
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Aspirin - Correct Spacing
+ROOT
+HETATM    1  C1  UNL     1      49.263  14.494  31.104  1.00  0.00           C
+HETATM    2  C2  UNL     1      50.365  14.478  31.999  1.00  0.00           C
+HETATM    3  C3  UNL     1      51.632  14.236  31.454  1.00  0.00           C
+HETATM    4  C4  UNL     1      51.790  14.033  30.079  1.00  0.00           C
+HETATM    5  C5  UNL     1      50.686  14.059  29.207  1.00  0.00           C
+HETATM    6  C6  UNL     1      49.422  14.292  29.726  1.00  0.00           C
+HETATM    7  O7  UNL     1      50.209  14.670  33.351  1.00  0.00           O
+HETATM    8  C8  UNL     1      51.357  14.911  34.137  1.00  0.00           C
+HETATM    9  O9  UNL     1      52.476  14.690  33.586  1.00  0.00           O
+HETATM   10  C10 UNL     1      51.308  15.776  35.283  1.00  0.00           C
+HETATM   11  C11 UNL     1      53.071  13.321  29.963  1.00  0.00           C
+HETATM   12  O12 UNL     1      53.375  12.634  29.001  1.00  0.00           O
+HETATM   13  O13 UNL     1      53.839  13.509  31.071  1.00  0.00           O
+ENDROOT
+TORSDOF 0
+ENDMDL
